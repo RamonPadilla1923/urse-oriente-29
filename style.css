@@ -1,0 +1,14 @@
+body { background-color: white; }
+.header { margin-top: 10px; }
+.labelheader { font-size:25px; font-weight:bold; font-family: Arial;}
+.body { /*background: #FAFAFA;*/ margin:0 100px; }
+.slider { width:1170px; margin-top:30px; }
+.works { margin-top: 30px;  }
+.worklabel { font-size:25px; font-weight:bold; font-family:Arial; }
+.imgworks {  top:10px; margin:10px; margin-left:2px; margin-right: 2px; width: 250px; }
+.linksworks { float:right; margin-right:20px; margin-top:20px; }
+.map { width:1120px; height:450px; background:red; margin:auto;}
+.name_work {  margin-left:10px; margin-top:10px; }
+.imgworkscard { margin-left:20px !important; margin-top: 10px;}
+.btnWorks { width:50%; margin-left:10px; }
+.newcenter { float:right;  }
